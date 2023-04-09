@@ -1,7 +1,7 @@
 # README.md
-### Hi ✌️
+### Hi I'm Sarah✌️
 -------------------------------
-I'm Sarah. I've just started my self-taught journey into Data Analysis. I'm still a greenhorn right now but hope to expand my knowledge. Currently working on freeCodeCamp's Data Analysis with Python Certification. Any suggestions for more learning opportunities would be awesome! 🤓
+I've just started my self-taught journey into Data Analysis and I'm excited to tackle this new adventure. I'm currently working on freeCodeCamp's Data Analysis with Python Certification. Any suggestions for more learning opportunities would be awesome! 🤓
 
   - Based in the US
 <!--
